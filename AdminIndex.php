@@ -191,7 +191,5 @@ $count = $STMC->rowCount();
   $(function () { $("input,select,textarea").not("[type=submit]").jqBootstrapValidation(); } );
 </script>
 
-
-
   </body>
 </html>
